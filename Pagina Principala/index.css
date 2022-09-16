@@ -3,3 +3,17 @@
 * {
     font-family: 'Arimo', sans-serif;
 }
+
+.img-hover-zoom {
+    width: auto;
+    height: auto;
+    overflow: hidden;
+}
+
+.img-hover-zoom img {
+    transition: transform .5s ease;
+}
+
+.img-hover-zoom:hover img {
+    transform: scale(1.5);
+}
