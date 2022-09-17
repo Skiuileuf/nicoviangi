@@ -17,3 +17,12 @@
 .img-hover-zoom:hover img {
     transform: scale(1.5);
 }
+
+.bg-light {
+    background-color: #ddd !important;
+}
+
+h1 {
+    /* color: #333333 !important;  */
+    color: #666 !important; 
+}
