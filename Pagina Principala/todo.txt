@@ -5,3 +5,4 @@ Corectare raport videoclipuri youtube
 Trimitere Ilie stadiu actual
 Bara de sus sa ramana fixa
 Gasire poze bune pentru sildeuri
+Spatiere elemente de pe pagina
