@@ -19,14 +19,22 @@
 }
 
 .bg-light {
-    background-color: #ddd !important;
+    background-color: #fff !important;
 }
 
 h1 {
-    /* color: #333333 !important;  */
-    color: #666 !important; 
+    /* color: #333 !important;  */
+    color: #CCC !important; 
 }
 
 a {
     text-decoration: none;
+}
+
+.hover-shadow {
+    transition: box-shadow 0.3s;
+}
+
+.hover-shadow:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
 }

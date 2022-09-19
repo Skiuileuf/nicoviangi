@@ -1,7 +1,7 @@
 [] logo in stanga mai mare - 20-30%
-[] in dreapta nr deasupra adresei de mail; nr tel fara paranteza si fara +4
-[] fara chenar gri, atat la header, cat si la butoane; doar pentru butoane sa fie efect de shadow la mouseover
-[] folosesti culoarea fontului GRI 80, atat pentru scris, cat si pentru log
+✔ in dreapta nr deasupra adresei de mail; nr tel fara paranteza si fara +4 @done(22-09-19 14:50)
+✔ fara chenar gri, atat la header, cat si la butoane; doar pentru butoane sa fie efect de shadow la mouseover @done(22-09-19 15:18)
+[] folosesti culoarea fontului GRI 80, atat pentru scris, cat si pentru logo
 [] in versiunea desktop, cele 2 filme care apar sub butoane trebuie sa fie fiecare sub butonul lui, nu unul sub altul
 [] in versiunea de telefon, filmul de la for sale apare dupa butonul for sale; butonul for rent apare dupa filmul for sale; filmul for rent apare dupa buton
 
