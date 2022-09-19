@@ -23,11 +23,12 @@
 }
 
 h1 {
-    /* color: #333 !important;  */
-    color: #CCC !important; 
+    color: #333 !important; 
+    /* color: #CCC !important;  */
 }
 
 a {
+    color: #333 !important; 
     text-decoration: none;
 }
 
