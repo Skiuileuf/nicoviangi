@@ -1,26 +1,17 @@
-✔ logo in stanga mai mare - 20-30% @done(22-09-19 16:57)
-✔ in dreapta nr deasupra adresei de mail; @done(22-09-19 17:33)
-✔ nr tel fara paranteza si fara +4 @done(22-09-19 17:20)
-✔ fara chenar gri, atat la header, cat si la butoane; doar pentru butoane sa fie efect de shadow la mouseover @done(22-09-19 15:18)
 ✔ folosesti culoarea fontului GRI 80, atat pentru scris, @done(22-09-19 16:57)
 [] cat si pentru logo
-✔ in versiunea desktop, cele 2 filme care apar sub butoane trebuie sa fie fiecare sub butonul lui, nu unul sub altul @done(22-09-19 17:12)
-✔ in versiunea de telefon, filmul de la for sale apare dupa butonul for sale; butonul for rent apare dupa filmul for sale; filmul for rent apare dupa buton @done(22-09-19 17:19)
 
-
-✔ link for sale:  https://www.youtube.com/watch?v=pi7oFqUAybs @done(22-09-19 17:19)
-
-✔ link for rent: https://www.youtube.com/watch?v=eqX7SlRo6eg @done(22-09-19 17:19)
-
+[] sa mai marim logoul putin
+[] spatiere cifre numar telefon ca sa fie cat adresa de mail
+[] text principal SEO
+[] text FOR SALE
+[] text FOR RENT
 
 
 
 [-] Pozele din slide-uri se misca diferit 
 - WON'T FIX, cel mult sa scoatem animatia ca sa nu se mai vada
 [] Gasire poze bune pentru sildeuri
-[?] Spatiere elemente de pe pagina
-✔ Animatie cand trece mouse-ul peste dreptunghiuri @done(22-09-19 17:42)
-
 [] Optimizare SEO cu metatags https://metatags.io/
 
 
@@ -29,3 +20,13 @@
 [X] Bara de sus sa ramana fixa
 [X] Centrare scris for rent si for sale
 [X] Corectare raport videoclipuri youtube
+✔ link for rent: https://www.youtube.com/watch?v=eqX7SlRo6eg @done(22-09-19 17:19)
+✔ link for sale:  https://www.youtube.com/watch?v=pi7oFqUAybs @done(22-09-19 17:19)
+✔ Animatie cand trece mouse-ul peste dreptunghiuri @done(22-09-19 17:42)
+✔ logo in stanga mai mare - 20-30% @done(22-09-19 16:57)
+✔ in dreapta nr deasupra adresei de mail; @done(22-09-19 17:33)
+✔ nr tel fara paranteza si fara +4 @done(22-09-19 17:20)
+✔ fara chenar gri, atat la header, cat si la butoane; doar pentru butoane sa fie efect de shadow la mouseover @done(22-09-19 15:18)
+✔ in versiunea desktop, cele 2 filme care apar sub butoane trebuie sa fie fiecare sub butonul lui, nu unul sub altul @done(22-09-19 17:12)
+✔ in versiunea de telefon, filmul de la for sale apare dupa butonul for sale; butonul for rent apare dupa filmul for sale; filmul for rent apare dupa buton @done(22-09-19 17:19)
+[?] Spatiere elemente de pe pagina 1/?
