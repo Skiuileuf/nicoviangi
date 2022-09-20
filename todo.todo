@@ -11,7 +11,6 @@
 [] Editare poze (stergere gunoaie si acelasi raport)
 [] Numar de telefon spatiat cat adresa de mail aproximativ
 [] Textul lat cat pozele
-[] Textul din pagina principala dupa poze
 [] Fontul dextului mai mic
 [] Adresa de mail si telefon mereu vizibile in varianta de telefon
 [] Mai mult spatiu intre header si continut
@@ -22,6 +21,8 @@
 
 - WON'T FIX, cel mult sa scoatem animatia ca sa nu se mai vada
 [-] Pozele din slide-uri se misca diferit 
+
+[x] Textul din pagina principala sa fie jos
 [x] Gasire poze bune pentru sildeuri
 [x] Trimitere Ilie stadiu actual
 [x] Gri mai inchis la bara si dreptunghiuri
