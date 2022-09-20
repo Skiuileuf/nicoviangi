@@ -11,10 +11,10 @@
 [] Editare poze (stergere gunoaie si acelasi raport)
 [] Numar de telefon spatiat cat adresa de mail aproximativ
 [] Textul lat cat pozele
-[] Fontul dextului mai mic
+[] Fontul textului mai mic
 [] Adresa de mail si telefon mereu vizibile in varianta de telefon
 [] Mai mult spatiu intre header si continut
-[] Harta poate sa fie automat in modul satelit?
+✔ Harta poate sa fie automat in modul satelit? @done(22-09-20 20:17)
 [] Logo-ul putin mai mare
 [] Schimbare header ca in poza de pe wa
 
