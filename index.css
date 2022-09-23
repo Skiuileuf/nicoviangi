@@ -39,6 +39,7 @@ h1 {
 
 a {
     color: #6b2424 !important;
+    text-decoration: none;
 }
 
 .hover-shadow {
@@ -61,4 +62,8 @@ a {
 
 .icon-margin {
     margin-right: 4px;
+}
+
+p {
+    text-indent: 50px;
 }
