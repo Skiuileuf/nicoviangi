@@ -28,9 +28,17 @@ h1 {
     padding: 10px;
 }
 
-a {
+.no-underline {
     color: #323232 !important; 
     text-decoration: none;
+}
+
+.nav-link {
+    color: #323232 !important; 
+}
+
+a {
+    color: #ED2228 !important;
 }
 
 .hover-shadow {
