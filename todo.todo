@@ -9,11 +9,11 @@
 ✔ micsorati la jumatate timpul care dureaza ca sa se schimbe fotografiile sau randarile din colajele de pe prima pagina @done(22-10-08 11:21)
 
 2. inside page for sale
-[] modifici textul actual cu urmatorul: {MAIL}
-[] dupa text lasi niste spatii si adaugi ca un fel de titlu centrat 
+✔ modifici textul actual cu urmatorul: {MAIL} @done(22-10-08 11:55)
+✔ dupa text lasi niste spatii si adaugi ca un fel de titlu centrat @done(22-10-08 11:55)
 [] colaj de 6 randari cu blocurile...primele 3 de mai sus si iti mai trimit pe mail urmatoarele 3
-[] dupa colaj randari adaugi harta cu locatia proiectului - Bucuresti Nord 10C
-[] dupa harta adaugi urmatorul text {MAIL}
+✔ dupa colaj randari adaugi harta cu locatia proiectului - Bucuresti Nord 10C @done(22-10-08 11:55)
+✔ dupa harta adaugi urmatorul text {MAIL} @done(22-10-08 11:55)
 
 
 
@@ -23,9 +23,10 @@
 [] format text principal SEO
 [] Optimizare SEO cu metatags https://metatags.io/
 
-- WON'T FIX, cel mult sa scoatem animatia ca sa nu se mai vada
-[-] Pozele din slide-uri se misca diferit 
 
+
+
+ARHIVA TODO - VERSIUNEA 1
 [x] Scris logo mai mare
 [x] Text For rent si For sale mai mici ca la nicoviangi in logo
 [x] Schimbare header ca in poza de pe wa
@@ -62,3 +63,5 @@
 ✔ fara chenar gri, atat la header, cat si la butoane; doar pentru butoane sa fie efect de shadow la mouseover @done(22-09-19 15:18)
 ✔ in versiunea desktop, cele 2 filme care apar sub butoane trebuie sa fie fiecare sub butonul lui, nu unul sub altul @done(22-09-19 17:12)
 ✔ in versiunea de telefon, filmul de la for sale apare dupa butonul for sale; butonul for rent apare dupa filmul for sale; filmul for rent apare dupa buton @done(22-09-19 17:19)
+- WON'T FIX, cel mult sa scoatem animatia ca sa nu se mai vada
+[x] Pozele din slide-uri se misca diferit 
