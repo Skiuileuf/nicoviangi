@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
 
+:root{
+    --nv-gray80: #323232;
+    --nv-gray60: hsl(0,0%,40%);
+    --nv-red: #af2424;
+}
+
+
 * {
     font-family: 'Arimo', sans-serif;
 }
@@ -23,22 +30,27 @@
 }
 
 h1 {
-    color: #323232 !important; 
+    color: var(--nv-gray80) !important; 
     font-size: 20px;
     padding: 10px;
 }
 
 .no-underline {
-    color: #323232 !important; 
+    color: var(--nv-gray80) !important; 
     text-decoration: none;
 }
 
 .nav-link {
-    color: #323232 !important; 
+    color: var(--nv-gray80) !important; 
+}
+
+.nav-link:hover {
+    color: var(--nv-red) !important;
+    text-decoration: underline !important;
 }
 
 a {
-    color: #af2424 !important;
+    color: var(--nv-red) !important;
     text-decoration: none;
 }
 
