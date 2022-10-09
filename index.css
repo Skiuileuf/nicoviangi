@@ -42,11 +42,19 @@ h1 {
 
 .nav-link {
     color: var(--nv-gray80) !important; 
+    border-bottom: 3px solid transparent;
+    border-radius: 3px;
+
+    padding-bottom: 0px;
+    margin-bottom: 8px;
 }
 
 .nav-link:hover {
     color: var(--nv-red) !important;
-    text-decoration: underline !important;
+    border-bottom: 3px solid var(--nv-red);
+    border-radius: 3px;
+    
+    /* text-decoration: underline !important; */
 }
 
 a {
