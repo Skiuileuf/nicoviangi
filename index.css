@@ -88,11 +88,33 @@ a {
     text-indent: 50px;
 }
 
+
+/* .carousel-control-next, .carousel-control-prev {
+    height: 25%;
+    top: calc(50% - 25%/2);
+    background: rgba(0,0,0,0.5) !important;
+} */
+
+.carousel-control-prev, .carousel-control-next {
+    opacity: 1;
+}
+
+.carousel-control-prev:hover, .carousel-control-next:hover {
+    opacity: 1;
+}
+
 .carousel-control-prev {
-    /* background: linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(255,255,255,0) 100%); */
-    background: linear-gradient(90deg, rgba(0,0,0,0.5) 0%, rgba(85,85,85,0.5) 75%, rgba(255,255,255,0) 100%);
+    background: linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(255,255,255,0) 100%);
 }
 
 .carousel-control-next {
-    background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(0,0,0,0.7)  100%);
+    background: linear-gradient(270deg, rgba(0,0,0,0.7) 0%, rgba(255,255,255,0) 100%);
+}
+
+.carousel-control-prev:hover {
+    background: linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(255,255,255,0) 100%) !important;
+}
+
+.carousel-control-next:hover {
+    background: linear-gradient(270deg, rgba(0,0,0,0.7) 0%, rgba(255,255,255,0) 100%) !important;
 }
