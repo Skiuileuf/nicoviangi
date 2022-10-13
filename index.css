@@ -88,6 +88,10 @@ a {
     text-indent: 50px;
 }
 
+.maps-embed {
+    line-height: 0; 
+    display: block;
+}
 
 /* .carousel-control-next, .carousel-control-prev {
     height: 25%;
